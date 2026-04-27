@@ -1,0 +1,10 @@
+id,nombre,edad,ciudad,salario
+1,Luis,25,Monterrey,10000
+2,Ana,30,CDMX,15000
+3,Pedro,22,Monterrey,8000
+4,Sofia,28,CDMX,12000
+5,Juan,35,Guadalajara,20000
+6,Maria,27,Monterrey,11000
+7,Carlos,40,Guadalajara,18000
+8,Lucia,,CDMX,
+8,Lucia,,CDMX,
