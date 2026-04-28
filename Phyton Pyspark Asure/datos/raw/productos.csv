@@ -1,0 +1,7 @@
+producto_id,nombre_producto,categoria,subcategoria,marca,costo_unitario,precio_lista,estatus_producto
+101,laptop pro,hardware,computo,Lenovo,18000,25000,activo
+102,mouse inalambrico,accesorios,perifericos,logitech,250,500,activo
+103,teclado mecanico,accesorios,perifericos,HyperX,550,900,activo
+104,monitor 27,hardware,pantallas,Samsung,5000,7200,activo
+105,base docking,accesorios,oficina,,1200,1800,activo
+106,licencia bi,software,analitica,Microsoft,3000,4500,activo

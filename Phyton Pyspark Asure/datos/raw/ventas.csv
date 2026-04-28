@@ -1,0 +1,16 @@
+venta_id,cliente_id,producto_id,fecha,cantidad,precio_unitario,descuento,metodo_pago,canal_venta,estado_venta,ejecutivo
+1,1,101,2026-01-15,1,25000,0,transferencia,online,completada,marco
+2,2,102,2026-01-15,2,500,50,tarjeta,online,completada,Laura
+3,1,103,2026-02-01,1,900,,tarjeta,whatsapp,completada,marco
+4,3,104,2026-02-03,1,7000,0,credito,offline,completada,raul
+5,4,102,2026-02-10,,500,0,tarjeta,online,completada,laura
+6,5,101,2026-03-01,1,25000,1000,transferencia,offline,completada,marco
+6,5,101,2026-03-01,1,25000,1000,transferencia,offline,completada,marco
+7,2,104,2026-03-11,1,7200,200,tarjeta,online,completada,Laura
+8,99,103,2026-03-12,2,900,0,tarjeta,online,completada,raul
+9,6,105,2026-03-20,3,1800,150,tarjeta,online,completada,marco
+10,7,106,2026-03-22,5,4500,500,transferencia,b2b,completada,raul
+11,6,102,2026-04-01,0,500,0,tarjeta,online,completada,marco
+12,4,101,2026-04-04,1,,0,credito,offline,pendiente,Laura
+13,1,104,2026-04-12,1,7200,300,tarjeta,online,cancelada,marco
+14,3,106,2026-04-20,2,4500,0,transferencia,b2b,completada,raul

@@ -1,0 +1,9 @@
+cliente_id,nombre_cliente,apellido_cliente,ciudad,segmento,correo,fecha_registro,canal_origen
+1,luis,Gomez,monterrey,pyme,luis.gomez@correo.com,2025-11-05,referido
+2,ana,lopez,CDMX,enterprise,ana.lopez@correo.com,2025-12-10,linkedin
+3,PEDRO,ramirez,guadalajara,mid-market,,2026-01-08,web
+4,sofia,Herrera,cdmx,pyme,sofia.herrera@correo.com,2026-01-15,evento
+5,carlos,Mendoza,Monterrey,enterprise,carlos.mendoza@correo.com,2026-02-02,referido
+6,valeria,ortiz,puebla,pyme,valeria.ortiz@correo.com,2026-02-18,web
+7,javier,Nava,queretaro,startup,javier.nava@correo.com,2026-03-03,linkedin
+7,javier,Nava,queretaro,startup,javier.nava@correo.com,2026-03-03,linkedin
